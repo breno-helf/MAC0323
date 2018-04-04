@@ -1,0 +1,2 @@
+### MAC0323 - Algorithms and Data Structure 2 (USP) ###
+These are the works for the Algorithms and Data Structure 2 course at University of São Paulo. This course is based in a similar Princeton course.
